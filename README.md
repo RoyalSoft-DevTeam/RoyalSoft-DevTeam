@@ -15,11 +15,11 @@
 
 <p>
   <a href="https://github.com/RoyalSoft-DevTeam" target="_blank" rel="noopener noreferrer">
-    <img
+<!--     <img
       height="180em"
       src="https://satoshj-readme-state.vercel.app/api?username=RoyalSoft-DevTeam&hide=contribs&show_icons=true&count_private=true&include_all_commits=true&disable_animations=false&hide_border=true&bg_color=FFFFFF00&text_color=05CCB2&icon_color=FFFFFF&title_color=FFFFFF"
       alt='github-stats'
-    />
+    /> -->
     <img
       height="180em"
       src="https://satoshj-readme-state.vercel.app/api/top-langs?username=RoyalSoft-DevTeam&show_icons=true&langs_count=8&layout=compact&hide_border=true&bg_color=FFFFFF00&text_color=05CCB2&icon_color=FFFFFF&title_color=FFFFFF"
