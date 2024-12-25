@@ -51,4 +51,4 @@
 [![CoProperty](https://img.shields.io/badge/-📰&nbsp;Co&nbsp;Property-000000?style=flat)](https://coproperty.cloud)
 
 
-⭐️ From [Brian](https://github.com/RoyalSoft-DevTeam)
+⭐️ From [Smile](https://github.com/RoyalSoft-DevTeam)
